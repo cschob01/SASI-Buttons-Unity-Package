@@ -1,0 +1,12 @@
+{
+    "name": "com.carlosschober.sasi_buttons",
+    "displayName": "SASI Buttons",
+    "version": "1.0.0",
+    "unity": "6000.3",
+    "description": "For integrating Static and Singleton calls in common UI button usage.",
+    "keywords": ["upm", "package", "singleton", "static", "button"],
+    "author": {
+        "name": "Carlos Schober",
+        "url": "https://cschob.dev"
+    }
+}
